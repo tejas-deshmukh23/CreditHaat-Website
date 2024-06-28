@@ -1,0 +1,97 @@
+
+h1{
+   
+    font-weight: bold;
+    
+}
+h2{
+  
+    font-size: 40px;
+    font-weight: bold;
+}
+h3{
+  
+  
+    font-weight: bold;
+    
+}
+h4{
+    color: black;
+}
+.heading{
+    color:black;
+
+}
+
+.number{
+    display: inline-block;
+    text-align: center;
+    color: white;
+    background-color: #3e2780;
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.text p {
+    font-size: 30px;
+   
+    text-align: left;
+    
+  }
+  .text1 p {
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+    text-align: left;
+    
+  }
+
+  .text2 p {
+    font-size: 30px;
+  
+    text-align: left;
+    
+  }
+  .text3 p {
+    font-size: 30px;
+   
+    text-align: left;
+    
+  }
+
+  .btn{
+    background-color: #3e2780;
+  }
+  .container-banner{
+    font-family: "open-sans";
+    max-width: 100%;
+  }
+  .col-md-12{
+    text-align: center;
+    padding:20px;
+  }
+  /* Example styles for dropdown arrow and FAQ */
+  .faq {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .faq-question {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+  }
+  
+  .dropdown-arrow {
+    font-size: 18px;
+    transition: transform 0.3s ease;
+  }
+  
+  .dropdown-arrow.open {
+    transform: rotate(180deg);
+  }
+  
